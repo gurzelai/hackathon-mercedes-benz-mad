@@ -1,0 +1,20 @@
+distribucion gaugana
+media, mediana...
+histograma
+coger el precio de salida de cada coche con tablas
+hay tablas cambio euro dolar
+
+
+random forest
+lightgbm
+xgboost
+
+crossvalidation
+ver si hace overfiting
+hyperparameter tunning
+
+versiones: para cada modelID hay muchas versiones
+relacion 1:N
+coges los coches audi y a3 y media de todos los precios. utilizas 1:1
+
+fechas con cosas raras
